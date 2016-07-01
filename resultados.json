@@ -1,1063 +1,3299 @@
-[{'abstencion': 288819,
-  'circunscripcion': 'A Coruña',
-  'escanyos': '8',
-  'resultados': [{'diputados': 4, 'partido': 'PP', 'votos': 255390},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-EN MAREA-ANOVA-EU',
-                  'votos': 147109},
-                 {'diputados': 2, 'partido': 'PSdeG-PSOE', 'votos': 138959},
-                 {'diputados': 0, 'partido': "C's", 'votos': 59863},
-                 {'diputados': 0, 'partido': 'BNG-NÓS', 'votos': 19199},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 6725},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1542},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1008},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 743},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 376}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO11159CI.htm',
-  'votosEnBlanco': 6651,
-  'votosNulos': 7671,
-  'votosTotales': 645236},
- {'abstencion': 82323,
-  'circunscripcion': 'Albacete',
-  'escanyos': '4',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 89564},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 59461},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 33301},
-                 {'diputados': 0, 'partido': "C's", 'votos': 31883},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1973},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 429},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 316},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 254},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 233}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO07029CI.htm',
-  'votosEnBlanco': 1426,
-  'votosNulos': 2217,
-  'votosTotales': 221057},
- {'abstencion': 340253,
-  'circunscripcion': 'Alicante / Alacant',
-  'escanyos': '12',
-  'resultados': [{'diputados': 5, 'partido': 'PP', 'votos': 329000},
-                 {'diputados': 3,
-                  'partido': 'PODEMOS-COMPROMÍS-EUPV',
-                  'votos': 192165},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 187056},
-                 {'diputados': 2, 'partido': "C's", 'votos': 138063},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 10600},
-                 {'diputados': 0, 'partido': 'CENTRO MODERADO', 'votos': 2986},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1993},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1939},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 1571},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1289},
-                 {'diputados': 0, 'partido': 'SOMVAL', 'votos': 551},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 399}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO17039CI.htm',
-  'votosEnBlanco': 4824,
-  'votosNulos': 7426,
-  'votosTotales': 879862},
- {'abstencion': 145744,
-  'circunscripcion': 'Almería',
-  'escanyos': '6',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 131377},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 84517},
-                 {'diputados': 1, 'partido': "C's", 'votos': 41667},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 39995},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2644},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 666},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 429},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 345},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 319},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 319},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 273},
-                 {'diputados': 0, 'partido': 'IZAR', 'votos': 143}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01049CI.htm',
-  'votosEnBlanco': 2210,
-  'votosNulos': 2312,
-  'votosTotales': 307216},
- {'abstencion': 79657,
-  'circunscripcion': 'Araba / Álava',
-  'escanyos': '4',
-  'resultados': [{'diputados': 1,
-                  'partido': 'PODEMOS/AHAL DUGU-IU-EQUO',
-                  'votos': 51602},
-                 {'diputados': 1, 'partido': 'PP', 'votos': 34162},
-                 {'diputados': 1, 'partido': 'EAJ-PNV', 'votos': 26671},
-                 {'diputados': 1, 'partido': 'PSE-EE (PSOE)', 'votos': 26353},
-                 {'diputados': 0, 'partido': 'EH Bildu', 'votos': 15841},
-                 {'diputados': 0, 'partido': "C's", 'votos': 8335},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1651},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 595},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 299},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 292},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 211},
-                 {'diputados': 0, 'partido': 'Ln', 'votos': 75}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO14019CI.htm',
-  'votosEnBlanco': 1079,
-  'votosNulos': 1697,
-  'votosTotales': 168863},
- {'abstencion': 277418,
-  'circunscripcion': 'Asturias',
-  'escanyos': '8',
-  'resultados': [{'diputados': 3, 'partido': 'PP-FORO', 'votos': 207811},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 146336},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-IU-EQUO-IAS-CLIAS',
-                  'votos': 140058},
-                 {'diputados': 1, 'partido': "C's", 'votos': 74370},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 6292},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 2540},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 1469},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1428},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1350},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1061},
-                 {'diputados': 0, 'partido': 'PH', 'votos': 595},
-                 {'diputados': 0, 'partido': 'PUEDE', 'votos': 330}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO03339CI.htm',
-  'votosEnBlanco': 5360,
-  'votosNulos': 5729,
-  'votosTotales': 594729},
- {'abstencion': 32151,
-  'circunscripcion': 'Ávila',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 50750},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 19143},
-                 {'diputados': 0, 'partido': "C's", 'votos': 14019},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 12395},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 603},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 354},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 254},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 140}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08059CI.htm',
-  'votosEnBlanco': 715,
-  'votosNulos': 1185,
-  'votosTotales': 99558},
- {'abstencion': 165433,
-  'circunscripcion': 'Badajoz',
-  'escanyos': '6',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 149384},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 133169},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 46911},
-                 {'diputados': 0, 'partido': "C's", 'votos': 40289},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2755},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 635},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 612},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 610}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO10069CI.htm',
-  'votosEnBlanco': 2712,
-  'votosNulos': 5030,
-  'votosTotales': 382107},
- {'abstencion': 1323321,
-  'circunscripcion': 'Barcelona',
-  'escanyos': '31',
-  'resultados': [{'diputados': 9, 'partido': 'ECP', 'votos': 690477},
-                 {'diputados': 5, 'partido': 'PSC-PSOE', 'votos': 443419},
-                 {'diputados': 5, 'partido': 'ERC-CATSÍ', 'votos': 435952},
-                 {'diputados': 4, 'partido': 'PP', 'votos': 356361},
-                 {'diputados': 4, 'partido': 'CDC', 'votos': 322678},
-                 {'diputados': 4, 'partido': "C's", 'votos': 303415},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 47478},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 8304},
-                 {'diputados': 0, 'partido': 'PCPC', 'votos': 3264}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO09089CI.htm',
-  'votosEnBlanco': 21086,
-  'votosNulos': 15934,
-  'votosTotales': 2648368},
- {'abstencion': 288416,
-  'circunscripcion': 'Bizkaia',
-  'escanyos': '8',
-  'resultados': [{'diputados': 3,
-                  'partido': 'PODEMOS/AHAL DUGU-IU-EQUO',
-                  'votos': 178605},
-                 {'diputados': 2, 'partido': 'EAJ-PNV', 'votos': 174874},
-                 {'diputados': 1, 'partido': 'PSE-EE (PSOE)', 'votos': 86134},
-                 {'diputados': 1, 'partido': 'PP', 'votos': 78536},
-                 {'diputados': 1, 'partido': 'EH Bildu', 'votos': 67501},
-                 {'diputados': 0, 'partido': "C's", 'votos': 20491},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 4863},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1165},
-                 {'diputados': 0, 'partido': 'EB-AZ', 'votos': 1020},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 739},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 628},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 464}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO14489CI.htm',
-  'votosEnBlanco': 3902,
-  'votosNulos': 4217,
-  'votosTotales': 623139},
- {'abstencion': 75821,
-  'circunscripcion': 'Burgos',
-  'escanyos': '4',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 88384},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 45515},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 35362},
-                 {'diputados': 0, 'partido': "C's", 'votos': 30163},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1760},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 778},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 644},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 453},
-                 {'diputados': 0, 'partido': 'IMC', 'votos': 351},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 289},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 275}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08099CI.htm',
-  'votosEnBlanco': 1793,
-  'votosNulos': 2258,
-  'votosTotales': 208025},
- {'abstencion': 95002,
-  'circunscripcion': 'Cáceres',
-  'escanyos': '4',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 95145},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 78480},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 32905},
-                 {'diputados': 0, 'partido': "C's", 'votos': 24200},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1668},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 447},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 404},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 401}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO10109CI.htm',
-  'votosEnBlanco': 1537,
-  'votosNulos': 3505,
-  'votosTotales': 238692},
- {'abstencion': 347304,
-  'circunscripcion': 'Cádiz',
-  'escanyos': '9',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 198386},
-                 {'diputados': 3, 'partido': 'PSOE', 'votos': 175201},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-IU-EQUO',
-                  'votos': 129864},
-                 {'diputados': 1, 'partido': "C's", 'votos': 87704},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 9678},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1739},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1406},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1245},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 763},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 470},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 391}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01119CI.htm',
-  'votosEnBlanco': 6934,
-  'votosNulos': 6450,
-  'votosTotales': 620231},
- {'abstencion': 123415,
-  'circunscripcion': 'Cantabria',
-  'escanyos': '5',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 139486},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 79042},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 59367},
-                 {'diputados': 1, 'partido': "C's", 'votos': 48379},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 3332},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1040},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 709},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 592},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 481},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 467},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 151},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 144}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO06399CI.htm',
-  'votosEnBlanco': 2450,
-  'votosNulos': 3743,
-  'votosTotales': 339383},
- {'abstencion': 107008,
-  'circunscripcion': 'Castellón / Castelló',
-  'escanyos': '5',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 106566},
-                 {'diputados': 1,
-                  'partido': 'PODEMOS-COMPROMÍS-EUPV',
-                  'votos': 71860},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 65911},
-                 {'diputados': 1, 'partido': "C's", 'votos': 43994},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2975},
-                 {'diputados': 0, 'partido': 'CCD', 'votos': 1711},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 708},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 655},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 557},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 474},
-                 {'diputados': 0, 'partido': 'SOMVAL', 'votos': 413},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 401}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO17129CI.htm',
-  'votosEnBlanco': 2065,
-  'votosNulos': 3124,
-  'votosTotales': 301414},
- {'abstencion': 28051,
-  'circunscripcion': 'Ceuta',
-  'escanyos': '1',
-  'resultados': [{'diputados': 1, 'partido': 'PP', 'votos': 15956},
-                 {'diputados': 0, 'partido': 'PSOE', 'votos': 6947},
-                 {'diputados': 0, 'partido': "C's", 'votos': 3542},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 3352},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 327},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 141},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 87},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 71}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO18519CI.htm',
-  'votosEnBlanco': 316,
-  'votosNulos': 350,
-  'votosTotales': 31089},
- {'abstencion': 112357,
-  'circunscripcion': 'Ciudad Real',
-  'escanyos': '5',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 121730},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 81670},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 37326},
-                 {'diputados': 0, 'partido': "C's", 'votos': 33070},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2325},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 671},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 455}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO07139CI.htm',
-  'votosEnBlanco': 1943,
-  'votosNulos': 3229,
-  'votosTotales': 282419},
- {'abstencion': 183656,
-  'circunscripcion': 'Córdoba',
-  'escanyos': '6',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 153421},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 138988},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 84546},
-                 {'diputados': 1, 'partido': "C's", 'votos': 55052},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 4222},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 730},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 702},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 660},
-                 {'diputados': 0, 'partido': 'PCOE', 'votos': 624},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 612},
-                 {'diputados': 0, 'partido': 'AND', 'votos': 599},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 463},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 328}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01149CI.htm',
-  'votosEnBlanco': 4488,
-  'votosNulos': 5148,
-  'votosTotales': 450583},
- {'abstencion': 38101,
-  'circunscripcion': 'Cuenca',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 52951},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 34387},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 15178},
-                 {'diputados': 0, 'partido': "C's", 'votos': 10971},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 649},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 271},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 192},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 130},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 76}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO07169CI.htm',
-  'votosEnBlanco': 822,
-  'votosNulos': 1271,
-  'votosTotales': 116898},
- {'abstencion': 190291,
-  'circunscripcion': 'Gipuzkoa',
-  'escanyos': '6',
-  'resultados': [{'diputados': 2,
-                  'partido': 'PODEMOS/AHAL DUGU-IU-EQUO',
-                  'votos': 103523},
-                 {'diputados': 2, 'partido': 'EAJ-PNV', 'votos': 84670},
-                 {'diputados': 1, 'partido': 'EH Bildu', 'votos': 69440},
-                 {'diputados': 1, 'partido': 'PSE-EE (PSOE)', 'votos': 51141},
-                 {'diputados': 0, 'partido': 'PP', 'votos': 34941},
-                 {'diputados': 0, 'partido': "C's", 'votos': 11500},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2761},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1156},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 465},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 281},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 204}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO14209CI.htm',
-  'votosEnBlanco': 2701,
-  'votosNulos': 1913,
-  'votosTotales': 364696},
- {'abstencion': 187053,
-  'circunscripcion': 'Girona',
-  'escanyos': '6',
-  'resultados': [{'diputados': 2, 'partido': 'ERC-CATSÍ', 'votos': 80492},
-                 {'diputados': 2, 'partido': 'CDC', 'votos': 71247},
-                 {'diputados': 1, 'partido': 'ECP', 'votos': 53054},
-                 {'diputados': 1, 'partido': 'PSC-PSOE', 'votos': 38403},
-                 {'diputados': 0, 'partido': 'PP', 'votos': 30860},
-                 {'diputados': 0, 'partido': "C's", 'votos': 23624},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 4607},
-                 {'diputados': 0, 'partido': 'PxC', 'votos': 722},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 576},
-                 {'diputados': 0, 'partido': 'PCPC', 'votos': 380}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO09179CI.htm',
-  'votosEnBlanco': 2640,
-  'votosNulos': 2514,
-  'votosTotales': 309119},
- {'abstencion': 210823,
-  'circunscripcion': 'Granada',
-  'escanyos': '7',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 172072},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 150829},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 86033},
-                 {'diputados': 1, 'partido': "C's", 'votos': 65603},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 5167},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1127},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 984},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 744},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 635},
-                 {'diputados': 0, 'partido': 'IZAR', 'votos': 255}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01189CI.htm',
-  'votosEnBlanco': 3412,
-  'votosNulos': 4621,
-  'votosTotales': 491482},
- {'abstencion': 46236,
-  'circunscripcion': 'Guadalajara',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 51942},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 30199},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 23732},
-                 {'diputados': 0, 'partido': "C's", 'votos': 21501},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1341},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 536},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 409},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 244},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 206},
-                 {'diputados': 0, 'partido': 'PCOE', 'votos': 120},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 37}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO07199CI.htm',
-  'votosEnBlanco': 818,
-  'votosNulos': 1362,
-  'votosTotales': 132447},
- {'abstencion': 140608,
-  'circunscripcion': 'Huelva',
-  'escanyos': '5',
-  'resultados': [{'diputados': 2, 'partido': 'PSOE', 'votos': 87992},
-                 {'diputados': 2, 'partido': 'PP', 'votos': 81844},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 39841},
-                 {'diputados': 0, 'partido': "C's", 'votos': 28596},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2838},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 465},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 463},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 398},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 343}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01219CI.htm',
-  'votosEnBlanco': 2518,
-  'votosNulos': 3430,
-  'votosTotales': 248728},
- {'abstencion': 49353,
-  'circunscripcion': 'Huesca',
-  'escanyos': '3',
-  'resultados': [{'diputados': 1, 'partido': 'PP-PAR', 'votos': 42351},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 29866},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 22251},
-                 {'diputados': 0, 'partido': "C's", 'votos': 17906},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 908},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 488},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 326},
-                 {'diputados': 0, 'partido': 'ENTABAN', 'votos': 257},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 236},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 214},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 157},
-                 {'diputados': 0, 'partido': 'MAS', 'votos': 91}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO02229CI.htm',
-  'votosEnBlanco': 1123,
-  'votosNulos': 1132,
-  'votosTotales': 117306},
- {'abstencion': 280316,
-  'circunscripcion': 'Illes Balears',
-  'escanyos': '8',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 162863},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-EUIB-MÉS',
-                  'votos': 117812},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 93279},
-                 {'diputados': 1, 'partido': "C's", 'votos': 67612},
-                 {'diputados': 0, 'partido': 'SI', 'votos': 7413},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 7247},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1635},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1192},
-                 {'diputados': 0, 'partido': 'PFyV', 'votos': 838}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO04079CI.htm',
-  'votosEnBlanco': 4228,
-  'votosNulos': 4648,
-  'votosTotales': 468767},
- {'abstencion': 146236,
-  'circunscripcion': 'Jaén',
-  'escanyos': '5',
-  'resultados': [{'diputados': 2, 'partido': 'PSOE', 'votos': 138418},
-                 {'diputados': 2, 'partido': 'PP', 'votos': 131021},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 52898},
-                 {'diputados': 0, 'partido': "C's", 'votos': 38773},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 3220},
-                 {'diputados': 0, 'partido': 'CILUS', 'votos': 847},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 630},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 576},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 494},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 452}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01239CI.htm',
-  'votosEnBlanco': 2540,
-  'votosNulos': 4312,
-  'votosTotales': 374181},
- {'abstencion': 58911,
-  'circunscripcion': 'La Rioja',
-  'escanyos': '4',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 73371},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 41882},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 28541},
-                 {'diputados': 0, 'partido': "C's", 'votos': 24067},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1332},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 416},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 356},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 306},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 304},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 249},
-                 {'diputados': 0, 'partido': 'HRTS-Ln', 'votos': 82}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO16269CI.htm',
-  'votosEnBlanco': 1223,
-  'votosNulos': 1870,
-  'votosTotales': 173999},
- {'abstencion': 293165,
-  'circunscripcion': 'Las Palmas',
-  'escanyos': '8',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 170048},
-                 {'diputados': 2, 'partido': 'PSOE-NCa', 'votos': 119186},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-IU-EQUO',
-                  'votos': 112812},
-                 {'diputados': 1, 'partido': "C's", 'votos': 64989},
-                 {'diputados': 0, 'partido': 'CCa-PNC', 'votos': 17956},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 6712},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1545},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 971},
-                 {'diputados': 0, 'partido': 'PCPC', 'votos': 896},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 881},
-                 {'diputados': 0, 'partido': 'UNIDAD DEL PUEBLO', 'votos': 684},
-                 {'diputados': 0, 'partido': 'JXC', 'votos': 533},
-                 {'diputados': 0, 'partido': 'PH', 'votos': 450},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 211}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO05359CI.htm',
-  'votosEnBlanco': 3496,
-  'votosNulos': 6448,
-  'votosTotales': 507818},
- {'abstencion': 114239,
-  'circunscripcion': 'León',
-  'escanyos': '4',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 111864},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 73107},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 48826},
-                 {'diputados': 0, 'partido': "C's", 'votos': 35581},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2144},
-                 {'diputados': 0, 'partido': 'UPL', 'votos': 2079},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 605},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 599},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 411},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 373},
-                 {'diputados': 0, 'partido': 'PREPAL', 'votos': 264},
-                 {'diputados': 0, 'partido': 'ALCD', 'votos': 97}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08249CI.htm',
-  'votosEnBlanco': 2386,
-  'votosNulos': 3197,
-  'votosTotales': 281533},
- {'abstencion': 116227,
-  'circunscripcion': 'Lleida',
-  'escanyos': '4',
-  'resultados': [{'diputados': 1, 'partido': 'ERC-CATSÍ', 'votos': 45303},
-                 {'diputados': 1, 'partido': 'CDC', 'votos': 40794},
-                 {'diputados': 1, 'partido': 'ECP', 'votos': 29974},
-                 {'diputados': 1, 'partido': 'PP', 'votos': 24355},
-                 {'diputados': 0, 'partido': 'PSC-PSOE', 'votos': 22415},
-                 {'diputados': 0, 'partido': "C's", 'votos': 12508},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1920},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 283},
-                 {'diputados': 0, 'partido': 'PCPC', 'votos': 265},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 197}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO09259CI.htm',
-  'votosEnBlanco': 2151,
-  'votosNulos': 1749,
-  'votosTotales': 181914},
- {'abstencion': 90339,
-  'circunscripcion': 'Lugo',
-  'escanyos': '4',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 90698},
-                 {'diputados': 1, 'partido': 'PSdeG-PSOE', 'votos': 45401},
-                 {'diputados': 1,
-                  'partido': 'PODEMOS-EN MAREA-ANOVA-EU',
-                  'votos': 32371},
-                 {'diputados': 0, 'partido': "C's", 'votos': 13220},
-                 {'diputados': 0, 'partido': 'BNG-NÓS', 'votos': 4966},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1884},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 496}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO11279CI.htm',
-  'votosEnBlanco': 2080,
-  'votosNulos': 3263,
-  'votosTotales': 194379},
- {'abstencion': 1199269,
-  'circunscripcion': 'Madrid',
-  'escanyos': '36',
-  'resultados': [{'diputados': 15, 'partido': 'PP', 'votos': 1315847},
-                 {'diputados': 8,
-                  'partido': 'PODEMOS-IU-EQUO-CLIAS',
-                  'votos': 729870},
-                 {'diputados': 7, 'partido': 'PSOE', 'votos': 674825},
-                 {'diputados': 6, 'partido': "C's", 'votos': 610391},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 38918},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 16608},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 15011},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 7301},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 3922},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 3522},
-                 {'diputados': 0, 'partido': 'PH', 'votos': 2243},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 1234},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 986}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO12289CI.htm',
-  'votosEnBlanco': 17994,
-  'votosNulos': 23598,
-  'votosTotales': 3462270},
- {'abstencion': 367060,
-  'circunscripcion': 'Málaga',
-  'escanyos': '11',
-  'resultados': [{'diputados': 4, 'partido': 'PP', 'votos': 255278},
-                 {'diputados': 3, 'partido': 'PSOE', 'votos': 200796},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-IU-EQUO',
-                  'votos': 139634},
-                 {'diputados': 2, 'partido': "C's", 'votos': 120801},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 11463},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1855},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1798},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1445},
-                 {'diputados': 0, 'partido': 'AND', 'votos': 1096},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 971},
-                 {'diputados': 0, 'partido': 'IZAR', 'votos': 456}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01299CI.htm',
-  'votosEnBlanco': 6166,
-  'votosNulos': 7219,
-  'votosTotales': 748978},
- {'abstencion': 25933,
-  'circunscripcion': 'Melilla',
-  'escanyos': '1',
-  'resultados': [{'diputados': 1, 'partido': 'PP', 'votos': 13478},
-                 {'diputados': 0, 'partido': 'PSOE', 'votos': 6656},
-                 {'diputados': 0, 'partido': "C's", 'votos': 3343},
-                 {'diputados': 0, 'partido': 'UNIDOS PODEMOS', 'votos': 2638},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 316},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 270},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 44}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO19529CI.htm',
-  'votosEnBlanco': 267,
-  'votosNulos': 361,
-  'votosTotales': 27373},
- {'abstencion': 288046,
-  'circunscripcion': 'Murcia',
-  'escanyos': '10',
-  'resultados': [{'diputados': 5, 'partido': 'PP', 'votos': 332437},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 144322},
-                 {'diputados': 2, 'partido': "C's", 'votos': 111574},
-                 {'diputados': 1,
-                  'partido': 'PODEMOS-IU-EQUO',
-                  'votos': 102355},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 8158},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 2594},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 2062},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1363},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 1337},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 621},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 386},
-                 {'diputados': 0, 'partido': 'FME', 'votos': 338}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO15309CI.htm',
-  'votosEnBlanco': 3703,
-  'votosNulos': 5892,
-  'votosTotales': 717142},
- {'abstencion': 140545,
-  'circunscripcion': 'Navarra',
-  'escanyos': '5',
-  'resultados': [{'diputados': 2, 'partido': 'UPN-PP', 'votos': 106434},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-IU-EQUO-BATZARRE',
-                  'votos': 94555},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 57952},
-                 {'diputados': 0, 'partido': 'EH Bildu', 'votos': 31310},
-                 {'diputados': 0, 'partido': "C's", 'votos': 20343},
-                 {'diputados': 0, 'partido': 'GBAI', 'votos': 14289},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2739},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1080},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 577},
-                 {'diputados': 0, 'partido': 'Ln', 'votos': 542},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 534}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO13319CI.htm',
-  'votosEnBlanco': 3459,
-  'votosNulos': 3377,
-  'votosTotales': 337191},
- {'abstencion': 80305,
-  'circunscripcion': 'Ourense',
-  'escanyos': '4',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 91007},
-                 {'diputados': 1, 'partido': 'PSdeG-PSOE', 'votos': 42878},
-                 {'diputados': 0,
-                  'partido': 'PODEMOS-EN MAREA-ANOVA-EU',
-                  'votos': 28703},
-                 {'diputados': 0, 'partido': "C's", 'votos': 12950},
-                 {'diputados': 0, 'partido': 'BNG-NÓS', 'votos': 4055},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1643},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 402},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 213}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO11329CI.htm',
-  'votosEnBlanco': 1524,
-  'votosNulos': 2383,
-  'votosTotales': 185758},
- {'abstencion': 35414,
-  'circunscripcion': 'Palencia',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 45796},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 24680},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 14946},
-                 {'diputados': 0, 'partido': "C's", 'votos': 12363},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 747},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 272},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 200},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 181},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 88},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 57}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08349CI.htm',
-  'votosEnBlanco': 836,
-  'votosNulos': 1212,
-  'votosTotales': 101378},
- {'abstencion': 226328,
-  'circunscripcion': 'Pontevedra',
-  'escanyos': '7',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 206732},
-                 {'diputados': 2,
-                  'partido': 'PODEMOS-EN MAREA-ANOVA-EU',
-                  'votos': 135960},
-                 {'diputados': 2, 'partido': 'PSdeG-PSOE', 'votos': 118015},
-                 {'diputados': 0, 'partido': "C's", 'votos': 47905},
-                 {'diputados': 0, 'partido': 'BNG-NÓS', 'votos': 16682},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 6364},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1323},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 959},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 768},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 700}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO11369CI.htm',
-  'votosEnBlanco': 4369,
-  'votosNulos': 7071,
-  'votosTotales': 546848},
- {'abstencion': 76709,
-  'circunscripcion': 'Salamanca',
-  'escanyos': '4',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 97040},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 42956},
-                 {'diputados': 0, 'partido': "C's", 'votos': 31670},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 25023},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 1331},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 660},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 316},
-                 {'diputados': 0, 'partido': 'PREPAL', 'votos': 228},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 194}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08379CI.htm',
-  'votosEnBlanco': 1439,
-  'votosNulos': 2129,
-  'votosTotales': 202986},
- {'abstencion': 253959,
-  'circunscripcion': 'Santa Cruz de Tenerife',
-  'escanyos': '7',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 162747},
-                 {'diputados': 1, 'partido': 'PSOE-NCa', 'votos': 100966},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 84849},
-                 {'diputados': 1, 'partido': 'CCa-PNC', 'votos': 60124},
-                 {'diputados': 1, 'partido': "C's", 'votos': 52384},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 8224},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1410},
-                 {'diputados': 0, 'partido': 'JXC', 'votos': 651},
-                 {'diputados': 0, 'partido': 'PCPC', 'votos': 645},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 629}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO05389CI.htm',
-  'votosEnBlanco': 2782,
-  'votosNulos': 5259,
-  'votosTotales': 480670},
- {'abstencion': 28482,
-  'circunscripcion': 'Segovia',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 40095},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 18952},
-                 {'diputados': 0, 'partido': "C's", 'votos': 13514},
-                 {'diputados': 0,
-                  'partido': 'PODEMOS-IU-EQUO-SEGOVIEMOS',
-                  'votos': 13336},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 610},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 345},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 275},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 202},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 129},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 117}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08409CI.htm',
-  'votosEnBlanco': 620,
-  'votosNulos': 1133,
-  'votosTotales': 89328},
- {'abstencion': 456786,
-  'circunscripcion': 'Sevilla',
-  'escanyos': '12',
-  'resultados': [{'diputados': 4, 'partido': 'PSOE', 'votos': 348001},
-                 {'diputados': 4, 'partido': 'PP', 'votos': 299653},
-                 {'diputados': 3,
-                  'partido': 'PODEMOS-IU-EQUO',
-                  'votos': 214244},
-                 {'diputados': 1, 'partido': "C's", 'votos': 137718},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 13383},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 2787},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 2176},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1923},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 1100},
-                 {'diputados': 0, 'partido': 'PCOE', 'votos': 1068},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 860}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO01419CI.htm',
-  'votosEnBlanco': 9584,
-  'votosNulos': 11747,
-  'votosTotales': 1044244},
- {'abstencion': 20442,
-  'circunscripcion': 'Soria',
-  'escanyos': '2',
-  'resultados': [{'diputados': 1, 'partido': 'PP', 'votos': 22145},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 12688},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 7518},
-                 {'diputados': 0, 'partido': "C's", 'votos': 5629},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 249},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 123},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 118},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 88},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 62},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 56}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08429CI.htm',
-  'votosEnBlanco': 597,
-  'votosNulos': 720,
-  'votosTotales': 49993},
- {'abstencion': 200945,
-  'circunscripcion': 'Tarragona',
-  'escanyos': '6',
-  'resultados': [{'diputados': 1, 'partido': 'ECP', 'votos': 75021},
-                 {'diputados': 1, 'partido': 'ERC-CATSÍ', 'votos': 67547},
-                 {'diputados': 1, 'partido': 'PSC-PSOE', 'votos': 53796},
-                 {'diputados': 1, 'partido': 'PP', 'votos': 51061},
-                 {'diputados': 1, 'partido': 'CDC', 'votos': 47120},
-                 {'diputados': 1, 'partido': "C's", 'votos': 38898},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 5664},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 849},
-                 {'diputados': 0, 'partido': 'PCPC', 'votos': 419}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO09439CI.htm',
-  'votosEnBlanco': 3054,
-  'votosNulos': 3239,
-  'votosTotales': 346668},
- {'abstencion': 29204,
-  'circunscripcion': 'Teruel',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP-PAR', 'votos': 30837},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 19638},
-                 {'diputados': 0, 'partido': 'PODEMOS-IU-EQUO', 'votos': 12442},
-                 {'diputados': 0, 'partido': "C's", 'votos': 9820},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 399},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 245},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 160},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 120},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 69},
-                 {'diputados': 0, 'partido': 'MAS', 'votos': 60},
-                 {'diputados': 0, 'partido': 'UDT', 'votos': 54},
-                 {'diputados': 0,
-                  'partido': 'INDEPENDIENTES-FIA',
-                  'votos': 48}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO02449CI.htm',
-  'votosEnBlanco': 704,
-  'votosNulos': 1009,
-  'votosTotales': 75605},
- {'abstencion': 137404,
-  'circunscripcion': 'Toledo',
-  'escanyos': '6',
-  'resultados': [{'diputados': 3, 'partido': 'PP', 'votos': 158931},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 97537},
-                 {'diputados': 1, 'partido': 'PODEMOS-IU-EQUO', 'votos': 53045},
-                 {'diputados': 0, 'partido': "C's", 'votos': 47561},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 3372},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1006},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 681},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 556},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 332},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 330},
-                 {'diputados': 0, 'partido': 'FE', 'votos': 254}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO07459CI.htm',
-  'votosEnBlanco': 1970,
-  'votosNulos': 5361,
-  'votosTotales': 370936},
- {'abstencion': 465387,
-  'circunscripcion': 'Valencia / València',
-  'escanyos': '16',
-  'resultados': [{'diputados': 6, 'partido': 'PP', 'votos': 481832},
-                 {'diputados': 5,
-                  'partido': 'PODEMOS-COMPROMÍS-EUPV',
-                  'votos': 391870},
-                 {'diputados': 3, 'partido': 'PSOE', 'votos': 285016},
-                 {'diputados': 2, 'partido': "C's", 'votos': 204769},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 18923},
-                 {'diputados': 0, 'partido': 'SOMVAL', 'votos': 5648},
-                 {'diputados': 0, 'partido': 'CCD', 'votos': 4553},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 3354},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 2927},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 2926},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 1542},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 1460},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 586},
-                 {'diputados': 0, 'partido': 'REPO', 'votos': 569}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO17469CI.htm',
-  'votosEnBlanco': 8482,
-  'votosNulos': 12307,
-  'votosTotales': 1426764},
- {'abstencion': 102746,
-  'circunscripcion': 'Valladolid',
-  'escanyos': '5',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 131580},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 71567},
-                 {'diputados': 1,
-                  'partido': 'PODEMOS-IU-EQUO-IZCA',
-                  'votos': 51133},
-                 {'diputados': 1, 'partido': "C's", 'votos': 48972},
-                 {'diputados': 0, 'partido': 'CCD-CI', 'votos': 2668},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 2205},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1068},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1045},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 514},
-                 {'diputados': 0, 'partido': 'FE de las JONS', 'votos': 453},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 316},
-                 {'diputados': 0, 'partido': 'SAIn', 'votos': 208},
-                 {'diputados': 0, 'partido': 'P-LIB', 'votos': 145},
-                 {'diputados': 0, 'partido': 'ALCD', 'votos': 113}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08479CI.htm',
-  'votosEnBlanco': 2228,
-  'votosNulos': 3508,
-  'votosTotales': 317723},
- {'abstencion': 44766,
-  'circunscripcion': 'Zamora',
-  'escanyos': '3',
-  'resultados': [{'diputados': 2, 'partido': 'PP', 'votos': 52110},
-                 {'diputados': 1, 'partido': 'PSOE', 'votos': 25813},
-                 {'diputados': 0,
-                  'partido': 'PODEMOS-IU-EQUO-CLIAS',
-                  'votos': 15188},
-                 {'diputados': 0, 'partido': "C's", 'votos': 12330},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 507},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 252},
-                 {'diputados': 0, 'partido': 'UPL', 'votos': 228},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 168},
-                 {'diputados': 0, 'partido': 'PREPAL', 'votos': 148},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 129}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO08499CI.htm',
-  'votosEnBlanco': 1009,
-  'votosNulos': 1445,
-  'votosTotales': 109327},
- {'abstencion': 198178,
-  'circunscripcion': 'Zaragoza',
-  'escanyos': '7',
-  'resultados': [{'diputados': 3, 'partido': 'PP-PAR', 'votos': 178555},
-                 {'diputados': 2, 'partido': 'PSOE', 'votos': 124849},
-                 {'diputados': 1,
-                  'partido': 'PODEMOS-IU-EQUO',
-                  'votos': 103358},
-                 {'diputados': 1, 'partido': "C's", 'votos': 85884},
-                 {'diputados': 0, 'partido': 'PACMA', 'votos': 5032},
-                 {'diputados': 0, 'partido': 'EB', 'votos': 3144},
-                 {'diputados': 0, 'partido': 'VOX', 'votos': 1598},
-                 {'diputados': 0, 'partido': 'UPyD', 'votos': 1375},
-                 {'diputados': 0,
-                  'partido': 'RECORTES CERO-GRUPO VERDE',
-                  'votos': 1163},
-                 {'diputados': 0, 'partido': 'MAS', 'votos': 567},
-                 {'diputados': 0, 'partido': 'PCPE', 'votos': 562},
-                 {'diputados': 0,
-                  'partido': 'INDEPENDIENTES-FIA',
-                  'votos': 508}],
-  'url': 'http://resultados2016.infoelecciones.es/99CO/DCO02509CI.htm',
-  'votosEnBlanco': 4105,
-  'votosNulos': 3963,
-  'votosTotales': 514663}]
+[
+    {
+        "abstencion": 288819,
+        "circunscripcion": "A Coruña",
+        "escanyos": "8",
+        "resultados": [
+            {
+                "diputados": 4,
+                "partido": "PP",
+                "votos": 255390
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-EN MAREA-ANOVA-EU",
+                "votos": 147109
+            },
+            {
+                "diputados": 2,
+                "partido": "PSdeG-PSOE",
+                "votos": 138959
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 59863
+            },
+            {
+                "diputados": 0,
+                "partido": "BNG-NÓS",
+                "votos": 19199
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 6725
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1542
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1008
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 743
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 376
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO11159CI.htm",
+        "votosEnBlanco": 6651,
+        "votosNulos": 7671,
+        "votosTotales": 645236
+    },
+    {
+        "abstencion": 82323,
+        "circunscripcion": "Albacete",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 89564
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 59461
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 33301
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 31883
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1973
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 429
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 316
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 254
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 233
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO07029CI.htm",
+        "votosEnBlanco": 1426,
+        "votosNulos": 2217,
+        "votosTotales": 221057
+    },
+    {
+        "abstencion": 340253,
+        "circunscripcion": "Alicante / Alacant",
+        "escanyos": "12",
+        "resultados": [
+            {
+                "diputados": 5,
+                "partido": "PP",
+                "votos": 329000
+            },
+            {
+                "diputados": 3,
+                "partido": "PODEMOS-COMPROMÍS-EUPV",
+                "votos": 192165
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 187056
+            },
+            {
+                "diputados": 2,
+                "partido": "C's",
+                "votos": 138063
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 10600
+            },
+            {
+                "diputados": 0,
+                "partido": "CENTRO MODERADO",
+                "votos": 2986
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1993
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1939
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 1571
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1289
+            },
+            {
+                "diputados": 0,
+                "partido": "SOMVAL",
+                "votos": 551
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 399
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO17039CI.htm",
+        "votosEnBlanco": 4824,
+        "votosNulos": 7426,
+        "votosTotales": 879862
+    },
+    {
+        "abstencion": 145744,
+        "circunscripcion": "Almería",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 131377
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 84517
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 41667
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 39995
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2644
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 666
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 429
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 345
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 319
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 319
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 273
+            },
+            {
+                "diputados": 0,
+                "partido": "IZAR",
+                "votos": 143
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01049CI.htm",
+        "votosEnBlanco": 2210,
+        "votosNulos": 2312,
+        "votosTotales": 307216
+    },
+    {
+        "abstencion": 79657,
+        "circunscripcion": "Araba / Álava",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "PODEMOS/AHAL DUGU-IU-EQUO",
+                "votos": 51602
+            },
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 34162
+            },
+            {
+                "diputados": 1,
+                "partido": "EAJ-PNV",
+                "votos": 26671
+            },
+            {
+                "diputados": 1,
+                "partido": "PSE-EE (PSOE)",
+                "votos": 26353
+            },
+            {
+                "diputados": 0,
+                "partido": "EH Bildu",
+                "votos": 15841
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 8335
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1651
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 595
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 299
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 292
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 211
+            },
+            {
+                "diputados": 0,
+                "partido": "Ln",
+                "votos": 75
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO14019CI.htm",
+        "votosEnBlanco": 1079,
+        "votosNulos": 1697,
+        "votosTotales": 168863
+    },
+    {
+        "abstencion": 277418,
+        "circunscripcion": "Asturias",
+        "escanyos": "8",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP-FORO",
+                "votos": 207811
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 146336
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-IU-EQUO-IAS-CLIAS",
+                "votos": 140058
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 74370
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 6292
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 2540
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 1469
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1428
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1350
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1061
+            },
+            {
+                "diputados": 0,
+                "partido": "PH",
+                "votos": 595
+            },
+            {
+                "diputados": 0,
+                "partido": "PUEDE",
+                "votos": 330
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO03339CI.htm",
+        "votosEnBlanco": 5360,
+        "votosNulos": 5729,
+        "votosTotales": 594729
+    },
+    {
+        "abstencion": 32151,
+        "circunscripcion": "Ávila",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 50750
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 19143
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 14019
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 12395
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 603
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 354
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 254
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 140
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08059CI.htm",
+        "votosEnBlanco": 715,
+        "votosNulos": 1185,
+        "votosTotales": 99558
+    },
+    {
+        "abstencion": 165433,
+        "circunscripcion": "Badajoz",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 149384
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 133169
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 46911
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 40289
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2755
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 635
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 612
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 610
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO10069CI.htm",
+        "votosEnBlanco": 2712,
+        "votosNulos": 5030,
+        "votosTotales": 382107
+    },
+    {
+        "abstencion": 1323321,
+        "circunscripcion": "Barcelona",
+        "escanyos": "31",
+        "resultados": [
+            {
+                "diputados": 9,
+                "partido": "ECP",
+                "votos": 690477
+            },
+            {
+                "diputados": 5,
+                "partido": "PSC-PSOE",
+                "votos": 443419
+            },
+            {
+                "diputados": 5,
+                "partido": "ERC-CATSÍ",
+                "votos": 435952
+            },
+            {
+                "diputados": 4,
+                "partido": "PP",
+                "votos": 356361
+            },
+            {
+                "diputados": 4,
+                "partido": "CDC",
+                "votos": 322678
+            },
+            {
+                "diputados": 4,
+                "partido": "C's",
+                "votos": 303415
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 47478
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 8304
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPC",
+                "votos": 3264
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO09089CI.htm",
+        "votosEnBlanco": 21086,
+        "votosNulos": 15934,
+        "votosTotales": 2648368
+    },
+    {
+        "abstencion": 288416,
+        "circunscripcion": "Bizkaia",
+        "escanyos": "8",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PODEMOS/AHAL DUGU-IU-EQUO",
+                "votos": 178605
+            },
+            {
+                "diputados": 2,
+                "partido": "EAJ-PNV",
+                "votos": 174874
+            },
+            {
+                "diputados": 1,
+                "partido": "PSE-EE (PSOE)",
+                "votos": 86134
+            },
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 78536
+            },
+            {
+                "diputados": 1,
+                "partido": "EH Bildu",
+                "votos": 67501
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 20491
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 4863
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1165
+            },
+            {
+                "diputados": 0,
+                "partido": "EB-AZ",
+                "votos": 1020
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 739
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 628
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 464
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO14489CI.htm",
+        "votosEnBlanco": 3902,
+        "votosNulos": 4217,
+        "votosTotales": 623139
+    },
+    {
+        "abstencion": 75821,
+        "circunscripcion": "Burgos",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 88384
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 45515
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 35362
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 30163
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1760
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 778
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 644
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 453
+            },
+            {
+                "diputados": 0,
+                "partido": "IMC",
+                "votos": 351
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 289
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 275
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08099CI.htm",
+        "votosEnBlanco": 1793,
+        "votosNulos": 2258,
+        "votosTotales": 208025
+    },
+    {
+        "abstencion": 95002,
+        "circunscripcion": "Cáceres",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 95145
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 78480
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 32905
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 24200
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1668
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 447
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 404
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 401
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO10109CI.htm",
+        "votosEnBlanco": 1537,
+        "votosNulos": 3505,
+        "votosTotales": 238692
+    },
+    {
+        "abstencion": 347304,
+        "circunscripcion": "Cádiz",
+        "escanyos": "9",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 198386
+            },
+            {
+                "diputados": 3,
+                "partido": "PSOE",
+                "votos": 175201
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 129864
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 87704
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 9678
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1739
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1406
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1245
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 763
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 470
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 391
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01119CI.htm",
+        "votosEnBlanco": 6934,
+        "votosNulos": 6450,
+        "votosTotales": 620231
+    },
+    {
+        "abstencion": 123415,
+        "circunscripcion": "Cantabria",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 139486
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 79042
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 59367
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 48379
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 3332
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1040
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 709
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 592
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 481
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 467
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 151
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 144
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO06399CI.htm",
+        "votosEnBlanco": 2450,
+        "votosNulos": 3743,
+        "votosTotales": 339383
+    },
+    {
+        "abstencion": 107008,
+        "circunscripcion": "Castellón / Castelló",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 106566
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-COMPROMÍS-EUPV",
+                "votos": 71860
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 65911
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 43994
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2975
+            },
+            {
+                "diputados": 0,
+                "partido": "CCD",
+                "votos": 1711
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 708
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 655
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 557
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 474
+            },
+            {
+                "diputados": 0,
+                "partido": "SOMVAL",
+                "votos": 413
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 401
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO17129CI.htm",
+        "votosEnBlanco": 2065,
+        "votosNulos": 3124,
+        "votosTotales": 301414
+    },
+    {
+        "abstencion": 28051,
+        "circunscripcion": "Ceuta",
+        "escanyos": "1",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 15956
+            },
+            {
+                "diputados": 0,
+                "partido": "PSOE",
+                "votos": 6947
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 3542
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 3352
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 327
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 141
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 87
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 71
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO18519CI.htm",
+        "votosEnBlanco": 316,
+        "votosNulos": 350,
+        "votosTotales": 31089
+    },
+    {
+        "abstencion": 112357,
+        "circunscripcion": "Ciudad Real",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 121730
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 81670
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 37326
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 33070
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2325
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 671
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 455
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO07139CI.htm",
+        "votosEnBlanco": 1943,
+        "votosNulos": 3229,
+        "votosTotales": 282419
+    },
+    {
+        "abstencion": 183656,
+        "circunscripcion": "Córdoba",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 153421
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 138988
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 84546
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 55052
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 4222
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 730
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 702
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 660
+            },
+            {
+                "diputados": 0,
+                "partido": "PCOE",
+                "votos": 624
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 612
+            },
+            {
+                "diputados": 0,
+                "partido": "AND",
+                "votos": 599
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 463
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 328
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01149CI.htm",
+        "votosEnBlanco": 4488,
+        "votosNulos": 5148,
+        "votosTotales": 450583
+    },
+    {
+        "abstencion": 38101,
+        "circunscripcion": "Cuenca",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 52951
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 34387
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 15178
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 10971
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 649
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 271
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 192
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 130
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 76
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO07169CI.htm",
+        "votosEnBlanco": 822,
+        "votosNulos": 1271,
+        "votosTotales": 116898
+    },
+    {
+        "abstencion": 190291,
+        "circunscripcion": "Gipuzkoa",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PODEMOS/AHAL DUGU-IU-EQUO",
+                "votos": 103523
+            },
+            {
+                "diputados": 2,
+                "partido": "EAJ-PNV",
+                "votos": 84670
+            },
+            {
+                "diputados": 1,
+                "partido": "EH Bildu",
+                "votos": 69440
+            },
+            {
+                "diputados": 1,
+                "partido": "PSE-EE (PSOE)",
+                "votos": 51141
+            },
+            {
+                "diputados": 0,
+                "partido": "PP",
+                "votos": 34941
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 11500
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2761
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1156
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 465
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 281
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 204
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO14209CI.htm",
+        "votosEnBlanco": 2701,
+        "votosNulos": 1913,
+        "votosTotales": 364696
+    },
+    {
+        "abstencion": 187053,
+        "circunscripcion": "Girona",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "ERC-CATSÍ",
+                "votos": 80492
+            },
+            {
+                "diputados": 2,
+                "partido": "CDC",
+                "votos": 71247
+            },
+            {
+                "diputados": 1,
+                "partido": "ECP",
+                "votos": 53054
+            },
+            {
+                "diputados": 1,
+                "partido": "PSC-PSOE",
+                "votos": 38403
+            },
+            {
+                "diputados": 0,
+                "partido": "PP",
+                "votos": 30860
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 23624
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 4607
+            },
+            {
+                "diputados": 0,
+                "partido": "PxC",
+                "votos": 722
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 576
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPC",
+                "votos": 380
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO09179CI.htm",
+        "votosEnBlanco": 2640,
+        "votosNulos": 2514,
+        "votosTotales": 309119
+    },
+    {
+        "abstencion": 210823,
+        "circunscripcion": "Granada",
+        "escanyos": "7",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 172072
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 150829
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 86033
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 65603
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 5167
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1127
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 984
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 744
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 635
+            },
+            {
+                "diputados": 0,
+                "partido": "IZAR",
+                "votos": 255
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01189CI.htm",
+        "votosEnBlanco": 3412,
+        "votosNulos": 4621,
+        "votosTotales": 491482
+    },
+    {
+        "abstencion": 46236,
+        "circunscripcion": "Guadalajara",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 51942
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 30199
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 23732
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 21501
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1341
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 536
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 409
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 244
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 206
+            },
+            {
+                "diputados": 0,
+                "partido": "PCOE",
+                "votos": 120
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 37
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO07199CI.htm",
+        "votosEnBlanco": 818,
+        "votosNulos": 1362,
+        "votosTotales": 132447
+    },
+    {
+        "abstencion": 140608,
+        "circunscripcion": "Huelva",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 87992
+            },
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 81844
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 39841
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 28596
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2838
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 465
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 463
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 398
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 343
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01219CI.htm",
+        "votosEnBlanco": 2518,
+        "votosNulos": 3430,
+        "votosTotales": 248728
+    },
+    {
+        "abstencion": 49353,
+        "circunscripcion": "Huesca",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "PP-PAR",
+                "votos": 42351
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 29866
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 22251
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 17906
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 908
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 488
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 326
+            },
+            {
+                "diputados": 0,
+                "partido": "ENTABAN",
+                "votos": 257
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 236
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 214
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 157
+            },
+            {
+                "diputados": 0,
+                "partido": "MAS",
+                "votos": 91
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO02229CI.htm",
+        "votosEnBlanco": 1123,
+        "votosNulos": 1132,
+        "votosTotales": 117306
+    },
+    {
+        "abstencion": 280316,
+        "circunscripcion": "Illes Balears",
+        "escanyos": "8",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 162863
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-EUIB-MÉS",
+                "votos": 117812
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 93279
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 67612
+            },
+            {
+                "diputados": 0,
+                "partido": "SI",
+                "votos": 7413
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 7247
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1635
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1192
+            },
+            {
+                "diputados": 0,
+                "partido": "PFyV",
+                "votos": 838
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO04079CI.htm",
+        "votosEnBlanco": 4228,
+        "votosNulos": 4648,
+        "votosTotales": 468767
+    },
+    {
+        "abstencion": 146236,
+        "circunscripcion": "Jaén",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 138418
+            },
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 131021
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 52898
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 38773
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 3220
+            },
+            {
+                "diputados": 0,
+                "partido": "CILUS",
+                "votos": 847
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 630
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 576
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 494
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 452
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01239CI.htm",
+        "votosEnBlanco": 2540,
+        "votosNulos": 4312,
+        "votosTotales": 374181
+    },
+    {
+        "abstencion": 58911,
+        "circunscripcion": "La Rioja",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 73371
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 41882
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 28541
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 24067
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1332
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 416
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 356
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 306
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 304
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 249
+            },
+            {
+                "diputados": 0,
+                "partido": "HRTS-Ln",
+                "votos": 82
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO16269CI.htm",
+        "votosEnBlanco": 1223,
+        "votosNulos": 1870,
+        "votosTotales": 173999
+    },
+    {
+        "abstencion": 293165,
+        "circunscripcion": "Las Palmas",
+        "escanyos": "8",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 170048
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE-NCa",
+                "votos": 119186
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 112812
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 64989
+            },
+            {
+                "diputados": 0,
+                "partido": "CCa-PNC",
+                "votos": 17956
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 6712
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1545
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 971
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPC",
+                "votos": 896
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 881
+            },
+            {
+                "diputados": 0,
+                "partido": "UNIDAD DEL PUEBLO",
+                "votos": 684
+            },
+            {
+                "diputados": 0,
+                "partido": "JXC",
+                "votos": 533
+            },
+            {
+                "diputados": 0,
+                "partido": "PH",
+                "votos": 450
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 211
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO05359CI.htm",
+        "votosEnBlanco": 3496,
+        "votosNulos": 6448,
+        "votosTotales": 507818
+    },
+    {
+        "abstencion": 114239,
+        "circunscripcion": "León",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 111864
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 73107
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 48826
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 35581
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2144
+            },
+            {
+                "diputados": 0,
+                "partido": "UPL",
+                "votos": 2079
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 605
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 599
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 411
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 373
+            },
+            {
+                "diputados": 0,
+                "partido": "PREPAL",
+                "votos": 264
+            },
+            {
+                "diputados": 0,
+                "partido": "ALCD",
+                "votos": 97
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08249CI.htm",
+        "votosEnBlanco": 2386,
+        "votosNulos": 3197,
+        "votosTotales": 281533
+    },
+    {
+        "abstencion": 116227,
+        "circunscripcion": "Lleida",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "ERC-CATSÍ",
+                "votos": 45303
+            },
+            {
+                "diputados": 1,
+                "partido": "CDC",
+                "votos": 40794
+            },
+            {
+                "diputados": 1,
+                "partido": "ECP",
+                "votos": 29974
+            },
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 24355
+            },
+            {
+                "diputados": 0,
+                "partido": "PSC-PSOE",
+                "votos": 22415
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 12508
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1920
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 283
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPC",
+                "votos": 265
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 197
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO09259CI.htm",
+        "votosEnBlanco": 2151,
+        "votosNulos": 1749,
+        "votosTotales": 181914
+    },
+    {
+        "abstencion": 90339,
+        "circunscripcion": "Lugo",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 90698
+            },
+            {
+                "diputados": 1,
+                "partido": "PSdeG-PSOE",
+                "votos": 45401
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-EN MAREA-ANOVA-EU",
+                "votos": 32371
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 13220
+            },
+            {
+                "diputados": 0,
+                "partido": "BNG-NÓS",
+                "votos": 4966
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1884
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 496
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO11279CI.htm",
+        "votosEnBlanco": 2080,
+        "votosNulos": 3263,
+        "votosTotales": 194379
+    },
+    {
+        "abstencion": 1199269,
+        "circunscripcion": "Madrid",
+        "escanyos": "36",
+        "resultados": [
+            {
+                "diputados": 15,
+                "partido": "PP",
+                "votos": 1315847
+            },
+            {
+                "diputados": 8,
+                "partido": "PODEMOS-IU-EQUO-CLIAS",
+                "votos": 729870
+            },
+            {
+                "diputados": 7,
+                "partido": "PSOE",
+                "votos": 674825
+            },
+            {
+                "diputados": 6,
+                "partido": "C's",
+                "votos": 610391
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 38918
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 16608
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 15011
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 7301
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 3922
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 3522
+            },
+            {
+                "diputados": 0,
+                "partido": "PH",
+                "votos": 2243
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 1234
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 986
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO12289CI.htm",
+        "votosEnBlanco": 17994,
+        "votosNulos": 23598,
+        "votosTotales": 3462270
+    },
+    {
+        "abstencion": 367060,
+        "circunscripcion": "Málaga",
+        "escanyos": "11",
+        "resultados": [
+            {
+                "diputados": 4,
+                "partido": "PP",
+                "votos": 255278
+            },
+            {
+                "diputados": 3,
+                "partido": "PSOE",
+                "votos": 200796
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 139634
+            },
+            {
+                "diputados": 2,
+                "partido": "C's",
+                "votos": 120801
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 11463
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1855
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1798
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1445
+            },
+            {
+                "diputados": 0,
+                "partido": "AND",
+                "votos": 1096
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 971
+            },
+            {
+                "diputados": 0,
+                "partido": "IZAR",
+                "votos": 456
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01299CI.htm",
+        "votosEnBlanco": 6166,
+        "votosNulos": 7219,
+        "votosTotales": 748978
+    },
+    {
+        "abstencion": 25933,
+        "circunscripcion": "Melilla",
+        "escanyos": "1",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 13478
+            },
+            {
+                "diputados": 0,
+                "partido": "PSOE",
+                "votos": 6656
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 3343
+            },
+            {
+                "diputados": 0,
+                "partido": "UNIDOS PODEMOS",
+                "votos": 2638
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 316
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 270
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 44
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO19529CI.htm",
+        "votosEnBlanco": 267,
+        "votosNulos": 361,
+        "votosTotales": 27373
+    },
+    {
+        "abstencion": 288046,
+        "circunscripcion": "Murcia",
+        "escanyos": "10",
+        "resultados": [
+            {
+                "diputados": 5,
+                "partido": "PP",
+                "votos": 332437
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 144322
+            },
+            {
+                "diputados": 2,
+                "partido": "C's",
+                "votos": 111574
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 102355
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 8158
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 2594
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 2062
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1363
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 1337
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 621
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 386
+            },
+            {
+                "diputados": 0,
+                "partido": "FME",
+                "votos": 338
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO15309CI.htm",
+        "votosEnBlanco": 3703,
+        "votosNulos": 5892,
+        "votosTotales": 717142
+    },
+    {
+        "abstencion": 140545,
+        "circunscripcion": "Navarra",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "UPN-PP",
+                "votos": 106434
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-IU-EQUO-BATZARRE",
+                "votos": 94555
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 57952
+            },
+            {
+                "diputados": 0,
+                "partido": "EH Bildu",
+                "votos": 31310
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 20343
+            },
+            {
+                "diputados": 0,
+                "partido": "GBAI",
+                "votos": 14289
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2739
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1080
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 577
+            },
+            {
+                "diputados": 0,
+                "partido": "Ln",
+                "votos": 542
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 534
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO13319CI.htm",
+        "votosEnBlanco": 3459,
+        "votosNulos": 3377,
+        "votosTotales": 337191
+    },
+    {
+        "abstencion": 80305,
+        "circunscripcion": "Ourense",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 91007
+            },
+            {
+                "diputados": 1,
+                "partido": "PSdeG-PSOE",
+                "votos": 42878
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-EN MAREA-ANOVA-EU",
+                "votos": 28703
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 12950
+            },
+            {
+                "diputados": 0,
+                "partido": "BNG-NÓS",
+                "votos": 4055
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1643
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 402
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 213
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO11329CI.htm",
+        "votosEnBlanco": 1524,
+        "votosNulos": 2383,
+        "votosTotales": 185758
+    },
+    {
+        "abstencion": 35414,
+        "circunscripcion": "Palencia",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 45796
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 24680
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 14946
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 12363
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 747
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 272
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 200
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 181
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 88
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 57
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08349CI.htm",
+        "votosEnBlanco": 836,
+        "votosNulos": 1212,
+        "votosTotales": 101378
+    },
+    {
+        "abstencion": 226328,
+        "circunscripcion": "Pontevedra",
+        "escanyos": "7",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 206732
+            },
+            {
+                "diputados": 2,
+                "partido": "PODEMOS-EN MAREA-ANOVA-EU",
+                "votos": 135960
+            },
+            {
+                "diputados": 2,
+                "partido": "PSdeG-PSOE",
+                "votos": 118015
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 47905
+            },
+            {
+                "diputados": 0,
+                "partido": "BNG-NÓS",
+                "votos": 16682
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 6364
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1323
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 959
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 768
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 700
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO11369CI.htm",
+        "votosEnBlanco": 4369,
+        "votosNulos": 7071,
+        "votosTotales": 546848
+    },
+    {
+        "abstencion": 76709,
+        "circunscripcion": "Salamanca",
+        "escanyos": "4",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 97040
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 42956
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 31670
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 25023
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 1331
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 660
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 316
+            },
+            {
+                "diputados": 0,
+                "partido": "PREPAL",
+                "votos": 228
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 194
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08379CI.htm",
+        "votosEnBlanco": 1439,
+        "votosNulos": 2129,
+        "votosTotales": 202986
+    },
+    {
+        "abstencion": 253959,
+        "circunscripcion": "Santa Cruz de Tenerife",
+        "escanyos": "7",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 162747
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE-NCa",
+                "votos": 100966
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 84849
+            },
+            {
+                "diputados": 1,
+                "partido": "CCa-PNC",
+                "votos": 60124
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 52384
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 8224
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1410
+            },
+            {
+                "diputados": 0,
+                "partido": "JXC",
+                "votos": 651
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPC",
+                "votos": 645
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 629
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO05389CI.htm",
+        "votosEnBlanco": 2782,
+        "votosNulos": 5259,
+        "votosTotales": 480670
+    },
+    {
+        "abstencion": 28482,
+        "circunscripcion": "Segovia",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 40095
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 18952
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 13514
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO-SEGOVIEMOS",
+                "votos": 13336
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 610
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 345
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 275
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 202
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 129
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 117
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08409CI.htm",
+        "votosEnBlanco": 620,
+        "votosNulos": 1133,
+        "votosTotales": 89328
+    },
+    {
+        "abstencion": 456786,
+        "circunscripcion": "Sevilla",
+        "escanyos": "12",
+        "resultados": [
+            {
+                "diputados": 4,
+                "partido": "PSOE",
+                "votos": 348001
+            },
+            {
+                "diputados": 4,
+                "partido": "PP",
+                "votos": 299653
+            },
+            {
+                "diputados": 3,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 214244
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 137718
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 13383
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 2787
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 2176
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1923
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 1100
+            },
+            {
+                "diputados": 0,
+                "partido": "PCOE",
+                "votos": 1068
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 860
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO01419CI.htm",
+        "votosEnBlanco": 9584,
+        "votosNulos": 11747,
+        "votosTotales": 1044244
+    },
+    {
+        "abstencion": 20442,
+        "circunscripcion": "Soria",
+        "escanyos": "2",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 22145
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 12688
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 7518
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 5629
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 249
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 123
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 118
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 88
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 62
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 56
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08429CI.htm",
+        "votosEnBlanco": 597,
+        "votosNulos": 720,
+        "votosTotales": 49993
+    },
+    {
+        "abstencion": 200945,
+        "circunscripcion": "Tarragona",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 1,
+                "partido": "ECP",
+                "votos": 75021
+            },
+            {
+                "diputados": 1,
+                "partido": "ERC-CATSÍ",
+                "votos": 67547
+            },
+            {
+                "diputados": 1,
+                "partido": "PSC-PSOE",
+                "votos": 53796
+            },
+            {
+                "diputados": 1,
+                "partido": "PP",
+                "votos": 51061
+            },
+            {
+                "diputados": 1,
+                "partido": "CDC",
+                "votos": 47120
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 38898
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 5664
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 849
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPC",
+                "votos": 419
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO09439CI.htm",
+        "votosEnBlanco": 3054,
+        "votosNulos": 3239,
+        "votosTotales": 346668
+    },
+    {
+        "abstencion": 29204,
+        "circunscripcion": "Teruel",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP-PAR",
+                "votos": 30837
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 19638
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 12442
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 9820
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 399
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 245
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 160
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 120
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 69
+            },
+            {
+                "diputados": 0,
+                "partido": "MAS",
+                "votos": 60
+            },
+            {
+                "diputados": 0,
+                "partido": "UDT",
+                "votos": 54
+            },
+            {
+                "diputados": 0,
+                "partido": "INDEPENDIENTES-FIA",
+                "votos": 48
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO02449CI.htm",
+        "votosEnBlanco": 704,
+        "votosNulos": 1009,
+        "votosTotales": 75605
+    },
+    {
+        "abstencion": 137404,
+        "circunscripcion": "Toledo",
+        "escanyos": "6",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP",
+                "votos": 158931
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 97537
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 53045
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 47561
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 3372
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1006
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 681
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 556
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 332
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 330
+            },
+            {
+                "diputados": 0,
+                "partido": "FE",
+                "votos": 254
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO07459CI.htm",
+        "votosEnBlanco": 1970,
+        "votosNulos": 5361,
+        "votosTotales": 370936
+    },
+    {
+        "abstencion": 465387,
+        "circunscripcion": "Valencia / València",
+        "escanyos": "16",
+        "resultados": [
+            {
+                "diputados": 6,
+                "partido": "PP",
+                "votos": 481832
+            },
+            {
+                "diputados": 5,
+                "partido": "PODEMOS-COMPROMÍS-EUPV",
+                "votos": 391870
+            },
+            {
+                "diputados": 3,
+                "partido": "PSOE",
+                "votos": 285016
+            },
+            {
+                "diputados": 2,
+                "partido": "C's",
+                "votos": 204769
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 18923
+            },
+            {
+                "diputados": 0,
+                "partido": "SOMVAL",
+                "votos": 5648
+            },
+            {
+                "diputados": 0,
+                "partido": "CCD",
+                "votos": 4553
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 3354
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 2927
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 2926
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 1542
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 1460
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 586
+            },
+            {
+                "diputados": 0,
+                "partido": "REPO",
+                "votos": 569
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO17469CI.htm",
+        "votosEnBlanco": 8482,
+        "votosNulos": 12307,
+        "votosTotales": 1426764
+    },
+    {
+        "abstencion": 102746,
+        "circunscripcion": "Valladolid",
+        "escanyos": "5",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 131580
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 71567
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO-IZCA",
+                "votos": 51133
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 48972
+            },
+            {
+                "diputados": 0,
+                "partido": "CCD-CI",
+                "votos": 2668
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 2205
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1068
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1045
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 514
+            },
+            {
+                "diputados": 0,
+                "partido": "FE de las JONS",
+                "votos": 453
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 316
+            },
+            {
+                "diputados": 0,
+                "partido": "SAIn",
+                "votos": 208
+            },
+            {
+                "diputados": 0,
+                "partido": "P-LIB",
+                "votos": 145
+            },
+            {
+                "diputados": 0,
+                "partido": "ALCD",
+                "votos": 113
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08479CI.htm",
+        "votosEnBlanco": 2228,
+        "votosNulos": 3508,
+        "votosTotales": 317723
+    },
+    {
+        "abstencion": 44766,
+        "circunscripcion": "Zamora",
+        "escanyos": "3",
+        "resultados": [
+            {
+                "diputados": 2,
+                "partido": "PP",
+                "votos": 52110
+            },
+            {
+                "diputados": 1,
+                "partido": "PSOE",
+                "votos": 25813
+            },
+            {
+                "diputados": 0,
+                "partido": "PODEMOS-IU-EQUO-CLIAS",
+                "votos": 15188
+            },
+            {
+                "diputados": 0,
+                "partido": "C's",
+                "votos": 12330
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 507
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 252
+            },
+            {
+                "diputados": 0,
+                "partido": "UPL",
+                "votos": 228
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 168
+            },
+            {
+                "diputados": 0,
+                "partido": "PREPAL",
+                "votos": 148
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 129
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO08499CI.htm",
+        "votosEnBlanco": 1009,
+        "votosNulos": 1445,
+        "votosTotales": 109327
+    },
+    {
+        "abstencion": 198178,
+        "circunscripcion": "Zaragoza",
+        "escanyos": "7",
+        "resultados": [
+            {
+                "diputados": 3,
+                "partido": "PP-PAR",
+                "votos": 178555
+            },
+            {
+                "diputados": 2,
+                "partido": "PSOE",
+                "votos": 124849
+            },
+            {
+                "diputados": 1,
+                "partido": "PODEMOS-IU-EQUO",
+                "votos": 103358
+            },
+            {
+                "diputados": 1,
+                "partido": "C's",
+                "votos": 85884
+            },
+            {
+                "diputados": 0,
+                "partido": "PACMA",
+                "votos": 5032
+            },
+            {
+                "diputados": 0,
+                "partido": "EB",
+                "votos": 3144
+            },
+            {
+                "diputados": 0,
+                "partido": "VOX",
+                "votos": 1598
+            },
+            {
+                "diputados": 0,
+                "partido": "UPyD",
+                "votos": 1375
+            },
+            {
+                "diputados": 0,
+                "partido": "RECORTES CERO-GRUPO VERDE",
+                "votos": 1163
+            },
+            {
+                "diputados": 0,
+                "partido": "MAS",
+                "votos": 567
+            },
+            {
+                "diputados": 0,
+                "partido": "PCPE",
+                "votos": 562
+            },
+            {
+                "diputados": 0,
+                "partido": "INDEPENDIENTES-FIA",
+                "votos": 508
+            }
+        ],
+        "url": "http://resultados2016.infoelecciones.es/99CO/DCO02509CI.htm",
+        "votosEnBlanco": 4105,
+        "votosNulos": 3963,
+        "votosTotales": 514663
+    }
+]
