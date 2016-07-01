@@ -2,7 +2,7 @@
     {
         "abstencion": 288819,
         "circunscripcion": "A Coruña",
-        "escanyos": "8",
+        "escanyos": 8,
         "resultados": [
             {
                 "diputados": 4,
@@ -63,7 +63,7 @@
     {
         "abstencion": 82323,
         "circunscripcion": "Albacete",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 2,
@@ -119,7 +119,7 @@
     {
         "abstencion": 340253,
         "circunscripcion": "Alicante / Alacant",
-        "escanyos": "12",
+        "escanyos": 12,
         "resultados": [
             {
                 "diputados": 5,
@@ -190,7 +190,7 @@
     {
         "abstencion": 145744,
         "circunscripcion": "Almería",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 3,
@@ -261,7 +261,7 @@
     {
         "abstencion": 79657,
         "circunscripcion": "Araba / Álava",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 1,
@@ -332,7 +332,7 @@
     {
         "abstencion": 277418,
         "circunscripcion": "Asturias",
-        "escanyos": "8",
+        "escanyos": 8,
         "resultados": [
             {
                 "diputados": 3,
@@ -403,7 +403,7 @@
     {
         "abstencion": 32151,
         "circunscripcion": "Ávila",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -454,7 +454,7 @@
     {
         "abstencion": 165433,
         "circunscripcion": "Badajoz",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 3,
@@ -505,7 +505,7 @@
     {
         "abstencion": 1323321,
         "circunscripcion": "Barcelona",
-        "escanyos": "31",
+        "escanyos": 31,
         "resultados": [
             {
                 "diputados": 9,
@@ -561,7 +561,7 @@
     {
         "abstencion": 288416,
         "circunscripcion": "Bizkaia",
-        "escanyos": "8",
+        "escanyos": 8,
         "resultados": [
             {
                 "diputados": 3,
@@ -632,7 +632,7 @@
     {
         "abstencion": 75821,
         "circunscripcion": "Burgos",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 2,
@@ -698,7 +698,7 @@
     {
         "abstencion": 95002,
         "circunscripcion": "Cáceres",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 2,
@@ -749,7 +749,7 @@
     {
         "abstencion": 347304,
         "circunscripcion": "Cádiz",
-        "escanyos": "9",
+        "escanyos": 9,
         "resultados": [
             {
                 "diputados": 3,
@@ -815,7 +815,7 @@
     {
         "abstencion": 123415,
         "circunscripcion": "Cantabria",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 2,
@@ -886,7 +886,7 @@
     {
         "abstencion": 107008,
         "circunscripcion": "Castellón / Castelló",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 2,
@@ -957,7 +957,7 @@
     {
         "abstencion": 28051,
         "circunscripcion": "Ceuta",
-        "escanyos": "1",
+        "escanyos": 1,
         "resultados": [
             {
                 "diputados": 1,
@@ -1008,7 +1008,7 @@
     {
         "abstencion": 112357,
         "circunscripcion": "Ciudad Real",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 3,
@@ -1054,7 +1054,7 @@
     {
         "abstencion": 183656,
         "circunscripcion": "Córdoba",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 2,
@@ -1130,7 +1130,7 @@
     {
         "abstencion": 38101,
         "circunscripcion": "Cuenca",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -1186,7 +1186,7 @@
     {
         "abstencion": 190291,
         "circunscripcion": "Gipuzkoa",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 2,
@@ -1252,7 +1252,7 @@
     {
         "abstencion": 187053,
         "circunscripcion": "Girona",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 2,
@@ -1313,7 +1313,7 @@
     {
         "abstencion": 210823,
         "circunscripcion": "Granada",
-        "escanyos": "7",
+        "escanyos": 7,
         "resultados": [
             {
                 "diputados": 3,
@@ -1374,7 +1374,7 @@
     {
         "abstencion": 46236,
         "circunscripcion": "Guadalajara",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -1440,7 +1440,7 @@
     {
         "abstencion": 140608,
         "circunscripcion": "Huelva",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 2,
@@ -1496,7 +1496,7 @@
     {
         "abstencion": 49353,
         "circunscripcion": "Huesca",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 1,
@@ -1567,7 +1567,7 @@
     {
         "abstencion": 280316,
         "circunscripcion": "Illes Balears",
-        "escanyos": "8",
+        "escanyos": 8,
         "resultados": [
             {
                 "diputados": 3,
@@ -1623,7 +1623,7 @@
     {
         "abstencion": 146236,
         "circunscripcion": "Jaén",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 2,
@@ -1684,7 +1684,7 @@
     {
         "abstencion": 58911,
         "circunscripcion": "La Rioja",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 2,
@@ -1750,7 +1750,7 @@
     {
         "abstencion": 293165,
         "circunscripcion": "Las Palmas",
-        "escanyos": "8",
+        "escanyos": 8,
         "resultados": [
             {
                 "diputados": 3,
@@ -1831,7 +1831,7 @@
     {
         "abstencion": 114239,
         "circunscripcion": "León",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 2,
@@ -1902,7 +1902,7 @@
     {
         "abstencion": 116227,
         "circunscripcion": "Lleida",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 1,
@@ -1963,7 +1963,7 @@
     {
         "abstencion": 90339,
         "circunscripcion": "Lugo",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 2,
@@ -2009,7 +2009,7 @@
     {
         "abstencion": 1199269,
         "circunscripcion": "Madrid",
-        "escanyos": "36",
+        "escanyos": 36,
         "resultados": [
             {
                 "diputados": 15,
@@ -2085,7 +2085,7 @@
     {
         "abstencion": 367060,
         "circunscripcion": "Málaga",
-        "escanyos": "11",
+        "escanyos": 11,
         "resultados": [
             {
                 "diputados": 4,
@@ -2151,7 +2151,7 @@
     {
         "abstencion": 25933,
         "circunscripcion": "Melilla",
-        "escanyos": "1",
+        "escanyos": 1,
         "resultados": [
             {
                 "diputados": 1,
@@ -2197,7 +2197,7 @@
     {
         "abstencion": 288046,
         "circunscripcion": "Murcia",
-        "escanyos": "10",
+        "escanyos": 10,
         "resultados": [
             {
                 "diputados": 5,
@@ -2268,7 +2268,7 @@
     {
         "abstencion": 140545,
         "circunscripcion": "Navarra",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 2,
@@ -2334,7 +2334,7 @@
     {
         "abstencion": 80305,
         "circunscripcion": "Ourense",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 3,
@@ -2385,7 +2385,7 @@
     {
         "abstencion": 35414,
         "circunscripcion": "Palencia",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -2446,7 +2446,7 @@
     {
         "abstencion": 226328,
         "circunscripcion": "Pontevedra",
-        "escanyos": "7",
+        "escanyos": 7,
         "resultados": [
             {
                 "diputados": 3,
@@ -2507,7 +2507,7 @@
     {
         "abstencion": 76709,
         "circunscripcion": "Salamanca",
-        "escanyos": "4",
+        "escanyos": 4,
         "resultados": [
             {
                 "diputados": 3,
@@ -2563,7 +2563,7 @@
     {
         "abstencion": 253959,
         "circunscripcion": "Santa Cruz de Tenerife",
-        "escanyos": "7",
+        "escanyos": 7,
         "resultados": [
             {
                 "diputados": 3,
@@ -2624,7 +2624,7 @@
     {
         "abstencion": 28482,
         "circunscripcion": "Segovia",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -2685,7 +2685,7 @@
     {
         "abstencion": 456786,
         "circunscripcion": "Sevilla",
-        "escanyos": "12",
+        "escanyos": 12,
         "resultados": [
             {
                 "diputados": 4,
@@ -2751,7 +2751,7 @@
     {
         "abstencion": 20442,
         "circunscripcion": "Soria",
-        "escanyos": "2",
+        "escanyos": 2,
         "resultados": [
             {
                 "diputados": 1,
@@ -2812,7 +2812,7 @@
     {
         "abstencion": 200945,
         "circunscripcion": "Tarragona",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 1,
@@ -2868,7 +2868,7 @@
     {
         "abstencion": 29204,
         "circunscripcion": "Teruel",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -2939,7 +2939,7 @@
     {
         "abstencion": 137404,
         "circunscripcion": "Toledo",
-        "escanyos": "6",
+        "escanyos": 6,
         "resultados": [
             {
                 "diputados": 3,
@@ -3005,7 +3005,7 @@
     {
         "abstencion": 465387,
         "circunscripcion": "Valencia / València",
-        "escanyos": "16",
+        "escanyos": 16,
         "resultados": [
             {
                 "diputados": 6,
@@ -3086,7 +3086,7 @@
     {
         "abstencion": 102746,
         "circunscripcion": "Valladolid",
-        "escanyos": "5",
+        "escanyos": 5,
         "resultados": [
             {
                 "diputados": 2,
@@ -3167,7 +3167,7 @@
     {
         "abstencion": 44766,
         "circunscripcion": "Zamora",
-        "escanyos": "3",
+        "escanyos": 3,
         "resultados": [
             {
                 "diputados": 2,
@@ -3228,7 +3228,7 @@
     {
         "abstencion": 198178,
         "circunscripcion": "Zaragoza",
-        "escanyos": "7",
+        "escanyos": 7,
         "resultados": [
             {
                 "diputados": 3,
